@@ -1,0 +1,12 @@
+insert into db.cad values ('Ester', 2001);
+insert into db.cad values ('Ester', 2002);
+insert into db.cad values ('Ester', 2003);
+insert into db.cad values ('Ester', 2009);
+insert into db.cad values ('Renato', 1996);
+insert into db.cad values ('Carol', 1999);
+insert into db.cad values ('Carol', 2000);
+insert into db.cad values ('Carol', 2001);
+insert into db.cad values ('Carol', 2002);
+insert into db.cad values ('Victor', 1994);
+insert into db.cad values ('Victor', 1996);
+insert into db.cad values ('Victor', 1997); 
